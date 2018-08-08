@@ -2,7 +2,7 @@
 Saeed Mirzamohammadi, Ardalan Amiri Sani, "The Case for a Virtualization-Based Trusted Execution Environment in Mobile Devices
 " in Proc. ACM SIGOPS Asia-Pacific Workshop on Systems (APSys), August 2018.
 
-([PDF](http://www.ics.uci.edu/~saeed/Mirzamohammadi_APSys18.pdf)).
+Link to the paper: ([PDF](http://www.ics.uci.edu/~saeed/Mirzamohammadi_APSys18.pdf)).
 
 # People
 
@@ -11,7 +11,7 @@ Saeed Mirzamohammadi, Ardalan Amiri Sani, "The Case for a Virtualization-Based T
 
 In these instructions, we show how to set up the basic configurations for performing the measurements discussed in the paper.
 
-# 1. Setting up Xen + CentOS on HiKey development board
+# 1. Setup (Xen + CentOS on HiKey development board)
 
 ## 1.1 Compilation
 
